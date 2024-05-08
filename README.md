@@ -5,7 +5,7 @@ of a solution began! English was my second language and it's the most spoken lan
 people to learn english would make more sense, right? So, I found an amazing API [Dictionary API](https://dictionaryapi.dev/),
 this API works really well and show us some importants informations about any word that you need to know. Let me show you, friend! 🎯
 
-!(src/core/assets/img/Screenshot 2024-05-08 140302.png)
+[!(src/core/assets/img/Screenshot 2024-05-08 140302.png)](https://github.com/marcos-jacometti/WordWise/blob/main/src/core/assets/img/Screenshot%202024-05-08%20140302.png)
 
 As you can see, you have just to type the word and click the button "Search", then, some informations will show on your screen.
 Informations like: phonetic, meanings, definitions, an audio and an example using that word...
